@@ -30,3 +30,10 @@ Ordered Items:
 Total Cost: $120.0
 Packing Number: 66
 --------------------------------------------------
+Customer Name: Hari	
+Customer ID: 12346
+Ordered Items:
+- 10 Nachos(s)
+Total Cost: $80.0
+Packing Number: 44
+--------------------------------------------------
