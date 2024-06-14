@@ -1,0 +1,32 @@
+Customer Name: abin
+Customer ID: 12345
+Ordered Items:
+- 10 Chips(s)
+- 10 Pizza(s)
+- 10 Tea(s)
+Total Cost: $180.0
+Packing Number: 51
+
+Customer Name: abin
+Customer ID: 12345
+Ordered Items:
+- 10 Chips(s)
+- 10 Pizza(s)
+- 10 Tea(s)
+Total Cost: $180.0
+Packing Number: 88
+--------------------------------------------------
+Customer Name: roshan
+Customer ID: 12345
+Ordered Items:
+- 10 Chips(s)
+Total Cost: $40.0
+Packing Number: 11
+--------------------------------------------------
+Customer Name: roshan
+Customer ID: 12345
+Ordered Items:
+- 30 Chips(s)
+Total Cost: $120.0
+Packing Number: 66
+--------------------------------------------------
